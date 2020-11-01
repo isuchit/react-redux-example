@@ -1,4 +1,5 @@
 # react-redux-example
+A Simple React Application using Redux.
 
 ## screenshots
 
